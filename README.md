@@ -1,4 +1,4 @@
-﻿## 👋 About Me
+## 👋 About Me
 
 **Full Stack Developer | Backend Enthusiast | Competitive Programmer**
 
@@ -64,4 +64,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Varsh1l01-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varsh1l01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshilrathod/)
-[![Email](https://img.shields.io/badge/Email-varshilpatel%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rathodvarshil9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rathodvarshil9%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rathodvarshil9@gmail.com)
