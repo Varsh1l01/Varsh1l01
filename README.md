@@ -58,17 +58,10 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-**Fundamentals:**
-
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1117?style=flat-square&logoColor=white)
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-0D1117?style=flat-square&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-0D1117?style=flat-square&logoColor=white)
-
 <br/>
 
 ## 🌐 Socials & Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-Varsh1l01-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varsh1l01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-kalola-graviton17)
-[![Email](https://img.shields.io/badge/Email-varshilpatel%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varshilpatel@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Gandhinagar%2C_Gujarat-4285F4?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshilrathod/)
+[![Email](https://img.shields.io/badge/Email-varshilpatel%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rathodvarshil9@gmail.com)
